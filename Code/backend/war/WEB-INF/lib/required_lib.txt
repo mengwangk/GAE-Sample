@@ -1,0 +1,56 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is A888-462F
+
+ Directory of C:\myspace\crossover\Koh Meng  Wang - Software Engineering Manager - Java\Code Folder\backend\war\WEB-INF\lib
+
+05/26/2015  03:25 AM    <DIR>          .
+05/26/2015  03:25 AM    <DIR>          ..
+02/28/2015  04:01 PM             4,467 aopalliance-1.0.jar
+05/23/2015  03:55 PM        16,697,613 appengine-api-1.0-sdk-1.9.18.jar
+05/23/2015  03:55 PM        13,595,591 appengine-api-labs.jar
+05/23/2015  03:55 PM            20,822 appengine-endpoints-deps.jar
+05/23/2015  03:55 PM         2,038,124 appengine-endpoints.jar
+05/23/2015  03:55 PM             7,111 appengine-jsr107cache-1.9.18.jar
+05/23/2015  03:55 PM            46,022 asm-4.0.jar
+05/23/2015  04:43 PM            65,870 batchfb-2.1.6.jar
+11/06/2014  09:14 AM           284,184 commons-codec-1.10.jar
+02/01/2015  05:09 AM            69,002 commons-fileupload-1.3.1.jar
+02/01/2015  05:09 AM           185,140 commons-io-2.4.jar
+02/01/2015  05:09 AM           315,805 commons-lang3-3.1.jar
+05/23/2015  03:55 PM           317,326 datanucleus-api-jdo-3.1.3.jar
+05/23/2015  03:55 PM           254,559 datanucleus-api-jpa-3.1.3.jar
+05/23/2015  03:55 PM           343,590 datanucleus-appengine-2.1.2.jar
+05/23/2015  03:55 PM         1,730,830 datanucleus-core-3.1.3.jar
+05/23/2015  03:55 PM           114,863 geronimo-jpa_2.0_spec-1.0.jar
+02/26/2015  09:28 PM           210,856 gson-2.3.1.jar
+02/26/2015  09:26 PM         2,256,213 guava-18.0.jar
+02/26/2015  09:26 PM           858,515 guava-gwt-18.0.jar
+02/26/2015  09:30 PM           710,492 guice-3.0.jar
+03/01/2015  07:47 PM            36,998 guice-assistedinject-3.0.jar
+02/28/2015  03:28 PM            65,012 guice-servlet-3.0.jar
+05/23/2015  03:55 PM         9,230,861 gwt-servlet.jar
+02/28/2015  07:38 PM            39,815 jackson-annotations-2.5.0.jar
+02/28/2015  07:38 PM           229,860 jackson-core-2.5.1.jar
+02/28/2015  07:38 PM         1,138,921 jackson-databind-2.5.1.jar
+02/28/2015  07:38 PM            28,723 jackson-jaxrs-base-2.5.1.jar
+02/28/2015  07:38 PM            16,692 jackson-jaxrs-json-provider-2.5.1.jar
+02/28/2015  07:38 PM            32,459 jackson-module-jaxb-annotations-2.5.1.jar
+02/28/2015  07:38 PM             2,497 javax.inject-1.jar
+05/23/2015  03:55 PM           201,124 jdo-api-3.0.1.jar
+02/28/2015  07:38 PM           436,689 jersey-core-1.19.jar
+02/28/2015  03:44 PM            16,151 jersey-guice-1.19.jar
+02/28/2015  03:42 PM           702,882 jersey-server-1.19.jar
+02/28/2015  03:43 PM           128,719 jersey-servlet-1.19.jar
+03/08/2015  10:42 PM            16,046 json_simple-1.1.jar
+05/23/2015  03:55 PM             8,082 jsr107cache-1.1.jar
+02/28/2015  07:38 PM            46,367 jsr311-api-1.1.1.jar
+02/28/2015  07:38 PM           414,240 jstl-1.2.jar
+05/23/2015  03:55 PM            15,071 jta-1.1.jar
+05/26/2015  03:25 AM                 0 lib.txt
+02/28/2015  03:40 PM         1,326,745 lombok-1.16.2.jar
+02/26/2015  05:29 PM           346,226 objectify-5.1.5.jar
+02/28/2015  07:38 PM           105,112 servlet-api-2.5.jar
+02/28/2015  03:42 PM            32,119 slf4j-api-1.7.10.jar
+02/28/2015  03:42 PM             7,895 slf4j-jdk14-1.7.10.jar
+              47 File(s)     54,752,301 bytes
+               2 Dir(s)  134,594,605,056 bytes free

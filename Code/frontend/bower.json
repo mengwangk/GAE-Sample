@@ -1,0 +1,17 @@
+{
+  "name": "Crossover",
+  "version": "0.0.1",
+  "devDependencies": {
+    "angular": "~1.3.13",
+    "angular-mocks": "~1.4",
+    "bootstrap": "~3.1",
+    "angular-bootstrap": "~0.12.0",
+    "angular-ui-router": "~0.2.13",
+    "ng-grid": "~2.0.14"
+  },
+  "dependencies": {},
+  "resolutions": {
+    "angular": "~1.3",
+    "angular-bootstrap": "~0.12"
+  }
+}

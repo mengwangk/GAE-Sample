@@ -1,0 +1,50 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-3" id="sidebar" ng-include="'assets/view/account_sidebar.html'"></div>
+		
+		
+		<div class="col-md-9" id="content">
+		
+		<div class="alert alert-info">
+		<p>
+			<h4 class="alert-heading">Savings Accounts </h3>
+			</p> <br/>				
+			 <div class="gridStyle" ng-grid="accountGrid">
+			</div>	
+		</div>
+	
+		
+		<div class="btn-group" role="group" >
+			<p>
+		  <button type="button" class="btn btn-default">Account Transfer (TBD)</button>
+		  <button type="button" class="btn btn-default">Print Statement (TBD)</button>
+		  </p><br/>
+		</div>
+
+		
+		<div class="alert alert-warning">
+		<p>
+			<h4 class="alert-heading">Transactions </h3>
+			</p> <br/>				
+			 <div class="gridStyle" ng-grid="transactionGrid">
+			</div>	
+		</div>
+	
+		
+		<div class="alert alert-danger">
+		<p>
+		{{ status }}
+		</p> 	
+		</div>
+	
+			
+		</div>
+	</div>
+	
+	
+</div>
+					
+	
+		
+		
+	
