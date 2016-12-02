@@ -10,6 +10,6 @@ Release 0.0.1 - May 26th, 2015
 - Administrator is hardcoded to "crossovertest256@gmail.com". Password is "raspbian_1234".
 - Lightweight framework. Refer to architecture and design document for more details.
 - Administrator can view all available accounts under "Admin Panel". The grid can be used to group, filter and sort accounts. 
-- TBD due to time constraint - admin search, view/download/print statement, money transfer. I am working full time and do not have that much time to work on this :(
+- TBD due to time constraint - admin search, view/download/print statement, money transfer. 
 
 Refer to http://crossover-sample.appspot.com/index.jsp for the demo.
